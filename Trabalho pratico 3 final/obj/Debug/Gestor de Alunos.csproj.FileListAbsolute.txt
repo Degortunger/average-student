@@ -1,0 +1,10 @@
+D:\Gitub\C#\Gestor de Alunos\Trabalho pratico 3 final\bin\Debug\Trabalho pratico 3 final.exe.config
+D:\Gitub\C#\Gestor de Alunos\Trabalho pratico 3 final\bin\Debug\Trabalho pratico 3 final.exe
+D:\Gitub\C#\Gestor de Alunos\Trabalho pratico 3 final\bin\Debug\Trabalho pratico 3 final.pdb
+D:\Gitub\C#\Gestor de Alunos\Trabalho pratico 3 final\obj\Debug\Gestor de Alunos.csprojAssemblyReference.cache
+D:\Gitub\C#\Gestor de Alunos\Trabalho pratico 3 final\obj\Debug\Trabalho_pratico_3_final.frm_Aluno.resources
+D:\Gitub\C#\Gestor de Alunos\Trabalho pratico 3 final\obj\Debug\Trabalho_pratico_3_final.Properties.Resources.resources
+D:\Gitub\C#\Gestor de Alunos\Trabalho pratico 3 final\obj\Debug\Gestor de Alunos.csproj.GenerateResource.cache
+D:\Gitub\C#\Gestor de Alunos\Trabalho pratico 3 final\obj\Debug\Gestor de Alunos.csproj.CoreCompileInputs.cache
+D:\Gitub\C#\Gestor de Alunos\Trabalho pratico 3 final\obj\Debug\Trabalho pratico 3 final.exe
+D:\Gitub\C#\Gestor de Alunos\Trabalho pratico 3 final\obj\Debug\Trabalho pratico 3 final.pdb

@@ -1,0 +1,39 @@
+C:\Users\Bruno\Desktop\Trabalho-pratico-3-final(1) - Cópia\Trabalho pratico 3 final\Trabalho pratico 3 final\bin\Debug\Trabalho pratico 3 final.exe.config
+C:\Users\Bruno\Google Drive\IP\Trabalho prático 3\Trabalho-pratico-3-final\Trabalho pratico 3 final\Trabalho pratico 3 final\bin\Debug\Trabalho pratico 3 final.exe.config
+C:\Users\Bruno\Google Drive\IP\Trabalho prático 3\Trabalho-pratico-3-final\Trabalho pratico 3 final\Trabalho pratico 3 final\bin\Debug\Trabalho pratico 3 final.exe
+C:\Users\Bruno\Google Drive\IP\Trabalho prático 3\Trabalho-pratico-3-final\Trabalho pratico 3 final\Trabalho pratico 3 final\bin\Debug\Trabalho pratico 3 final.pdb
+C:\Users\Bruno\Google Drive\IP\Trabalho prático 3\Trabalho-pratico-3-final\Trabalho pratico 3 final\Trabalho pratico 3 final\obj\Debug\Trabalho pratico 3 final.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Google Drive\IP\Trabalho prático 3\Trabalho-pratico-3-final\Trabalho pratico 3 final\Trabalho pratico 3 final\obj\Debug\Trabalho_pratico_3_final.frm_Aluno.resources
+C:\Users\Bruno\Google Drive\IP\Trabalho prático 3\Trabalho-pratico-3-final\Trabalho pratico 3 final\Trabalho pratico 3 final\obj\Debug\Trabalho_pratico_3_final.Properties.Resources.resources
+C:\Users\Bruno\Google Drive\IP\Trabalho prático 3\Trabalho-pratico-3-final\Trabalho pratico 3 final\Trabalho pratico 3 final\obj\Debug\Trabalho pratico 3 final.csproj.GenerateResource.Cache
+C:\Users\Bruno\Google Drive\IP\Trabalho prático 3\Trabalho-pratico-3-final\Trabalho pratico 3 final\Trabalho pratico 3 final\obj\Debug\Trabalho pratico 3 final.exe
+C:\Users\Bruno\Google Drive\IP\Trabalho prático 3\Trabalho-pratico-3-final\Trabalho pratico 3 final\Trabalho pratico 3 final\obj\Debug\Trabalho pratico 3 final.pdb
+C:\Users\Bruno\Google Drive\1ºAno\1ºSemestre\IP\Trabalho prático 3\Trabalho-pratico-3-final\Trabalho pratico 3 final\Trabalho pratico 3 final\bin\Debug\Trabalho pratico 3 final.exe.config
+C:\Users\Bruno\Google Drive\1ºAno\1ºSemestre\IP\Trabalho prático 3\Trabalho-pratico-3-final\Trabalho pratico 3 final\Trabalho pratico 3 final\obj\Debug\Trabalho pratico 3 final.exe
+C:\Users\Bruno\Google Drive\1ºAno\1ºSemestre\IP\Trabalho prático 3\Trabalho-pratico-3-final\Trabalho pratico 3 final\Trabalho pratico 3 final\obj\Debug\Trabalho pratico 3 final.pdb
+C:\Users\Bruno\Google Drive\1ºAno\1ºSemestre\IP\Trabalho prático 3\Trabalho-pratico-3-final\Trabalho pratico 3 final\Trabalho pratico 3 final\bin\Debug\Trabalho pratico 3 final.exe
+C:\Users\Bruno\Google Drive\1ºAno\1ºSemestre\IP\Trabalho prático 3\Trabalho-pratico-3-final\Trabalho pratico 3 final\Trabalho pratico 3 final\bin\Debug\Trabalho pratico 3 final.pdb
+C:\Users\Bruno\Google Drive\1ºAno\1ºSemestre\IP\Trabalho prático 3\Trabalho-pratico-3-final\Trabalho pratico 3 final\Trabalho pratico 3 final\obj\Debug\Trabalho pratico 3 final.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Google Drive\1ºAno\1ºSemestre\IP\Trabalho prático 3\Trabalho-pratico-3-final\Trabalho pratico 3 final\Trabalho pratico 3 final\obj\Debug\Trabalho_pratico_3_final.frm_Aluno.resources
+C:\Users\Bruno\Google Drive\1ºAno\1ºSemestre\IP\Trabalho prático 3\Trabalho-pratico-3-final\Trabalho pratico 3 final\Trabalho pratico 3 final\obj\Debug\Trabalho_pratico_3_final.Properties.Resources.resources
+C:\Users\Bruno\Google Drive\1ºAno\1ºSemestre\IP\Trabalho prático 3\Trabalho-pratico-3-final\Trabalho pratico 3 final\Trabalho pratico 3 final\obj\Debug\Trabalho pratico 3 final.csproj.GenerateResource.Cache
+F:\TDM\1ºAno\1ºSemestre\IP\Trabalho prático 3\Trabalho-pratico-3-final\Trabalho pratico 3 final\Trabalho pratico 3 final\bin\Debug\Trabalho pratico 3 final.exe.config
+F:\TDM\1ºAno\1ºSemestre\IP\Trabalho prático 3\Trabalho-pratico-3-final\Trabalho pratico 3 final\Trabalho pratico 3 final\bin\Debug\Trabalho pratico 3 final.exe
+F:\TDM\1ºAno\1ºSemestre\IP\Trabalho prático 3\Trabalho-pratico-3-final\Trabalho pratico 3 final\Trabalho pratico 3 final\bin\Debug\Trabalho pratico 3 final.pdb
+F:\TDM\1ºAno\1ºSemestre\IP\Trabalho prático 3\Trabalho-pratico-3-final\Trabalho pratico 3 final\Trabalho pratico 3 final\obj\Debug\Trabalho pratico 3 final.csprojAssemblyReference.cache
+F:\TDM\1ºAno\1ºSemestre\IP\Trabalho prático 3\Trabalho-pratico-3-final\Trabalho pratico 3 final\Trabalho pratico 3 final\obj\Debug\Trabalho_pratico_3_final.frm_Aluno.resources
+F:\TDM\1ºAno\1ºSemestre\IP\Trabalho prático 3\Trabalho-pratico-3-final\Trabalho pratico 3 final\Trabalho pratico 3 final\obj\Debug\Trabalho_pratico_3_final.Properties.Resources.resources
+F:\TDM\1ºAno\1ºSemestre\IP\Trabalho prático 3\Trabalho-pratico-3-final\Trabalho pratico 3 final\Trabalho pratico 3 final\obj\Debug\Trabalho pratico 3 final.csproj.GenerateResource.cache
+F:\TDM\1ºAno\1ºSemestre\IP\Trabalho prático 3\Trabalho-pratico-3-final\Trabalho pratico 3 final\Trabalho pratico 3 final\obj\Debug\Trabalho pratico 3 final.csproj.CoreCompileInputs.cache
+F:\TDM\1ºAno\1ºSemestre\IP\Trabalho prático 3\Trabalho-pratico-3-final\Trabalho pratico 3 final\Trabalho pratico 3 final\obj\Debug\Trabalho pratico 3 final.exe
+F:\TDM\1ºAno\1ºSemestre\IP\Trabalho prático 3\Trabalho-pratico-3-final\Trabalho pratico 3 final\Trabalho pratico 3 final\obj\Debug\Trabalho pratico 3 final.pdb
+D:\Gitub\C#\Trabalho pratico 3 final\Trabalho pratico 3 final\obj\Debug\Trabalho pratico 3 final.csprojAssemblyReference.cache
+D:\Gitub\C#\Trabalho pratico 3 final\Trabalho pratico 3 final\obj\Debug\Trabalho_pratico_3_final.frm_Aluno.resources
+D:\Gitub\C#\Trabalho pratico 3 final\Trabalho pratico 3 final\obj\Debug\Trabalho_pratico_3_final.Properties.Resources.resources
+D:\Gitub\C#\Trabalho pratico 3 final\Trabalho pratico 3 final\obj\Debug\Trabalho pratico 3 final.csproj.GenerateResource.cache
+D:\Gitub\C#\Trabalho pratico 3 final\Trabalho pratico 3 final\obj\Debug\Trabalho pratico 3 final.csproj.CoreCompileInputs.cache
+D:\Gitub\C#\Trabalho pratico 3 final\Trabalho pratico 3 final\obj\Debug\Trabalho pratico 3 final.exe
+D:\Gitub\C#\Trabalho pratico 3 final\Trabalho pratico 3 final\obj\Debug\Trabalho pratico 3 final.pdb
+D:\Gitub\C#\Trabalho pratico 3 final\Trabalho pratico 3 final\bin\Debug\Trabalho pratico 3 final.exe.config
+D:\Gitub\C#\Trabalho pratico 3 final\Trabalho pratico 3 final\bin\Debug\Trabalho pratico 3 final.exe
+D:\Gitub\C#\Trabalho pratico 3 final\Trabalho pratico 3 final\bin\Debug\Trabalho pratico 3 final.pdb
